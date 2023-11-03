@@ -1,5 +1,6 @@
 <RCC>
   <qresource prefix="images">
+    <file>resources/green_blinker.png</file>
     <file>resources/red_blinker.png</file>
   </qresource>
 </RCC>
